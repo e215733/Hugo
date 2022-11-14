@@ -1,4 +1,4 @@
-baseURL = 'http://e215733.github.io/hugo'
+baseURL = 'http://example.com/'
 languageCode = 'js'
 title = 'My-site'
 theme = "hugo-theme-notrack"
