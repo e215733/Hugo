@@ -1,0 +1,7 @@
+baseURL = 'http://e215733.github.io/hugo'
+languageCode = 'js'
+title = 'My-site'
+theme = "hugo-theme-notrack"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+mainSections = ["blog"]
